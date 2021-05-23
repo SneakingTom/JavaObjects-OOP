@@ -1,0 +1,19 @@
+
+public class ProgrammingLanguages {
+	
+	String language = "Java";
+	String inventor = "James Gosling";
+	int year = 1995;
+	String logo = "Coffee";
+	int seriesnum = 13;
+	String series = "My Java Learning Progress(MJLP)";
+	String topic = "Java Objects(OOP)";
+	
+	void startcode() {
+		System.out.println("You started coding Java :D");
+	}
+	void stopcode() {
+		System.out.println("You stopped coding :(");
+	}
+
+}
