@@ -1,0 +1,17 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		ProgrammingLanguages pl1 = new ProgrammingLanguages();
+
+		
+		System.out.println(pl1.series);
+		System.out.println(pl1.seriesnum);
+		System.out.println(pl1.topic);
+		pl1.startcode();
+
+	}
+
+}
